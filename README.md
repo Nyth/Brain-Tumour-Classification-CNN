@@ -1,10 +1,10 @@
-Models and Datasets
+**Models and Datasets**
 
 We will employ a custom-designed CNN architecture to classify the MRI images accurately. The architecture will consist of multiple convolutional layers, pooling layers, and fully connected layers, ending with a softmax layer to output probabilities for each class.
 
 The dataset for this project will be sourced from a publicly available repository on Kaggle, such as the "Brain Tumor Classification (MRI)" dataset. This dataset contains annotated MRI scans categorized into different tumor types and healthy controls.
 
- Data Visualization:
+** Data Visualization:**
  
 I displayed a few samples from the Brain Tumor Classification (MRI) dataset along with the number of samples for each type of tumor in each picture folder to help better understanding the dataset. The MRI pictures utilized in the project and the general appearance of the dataset are shown in the following examples:
 
