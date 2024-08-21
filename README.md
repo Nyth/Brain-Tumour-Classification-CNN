@@ -1,3 +1,8 @@
+**Brain Tumor Detection using CNN**
+
+**Project Description**
+Our project aims to classify brain tumors using Convolutional Neural Networks (CNNs). This deep learning approach leverages CNN's ability to automatically and adaptively learn spatial hierarchies of features from input images. We will use a pre-labeled dataset of brain MRI scans to train our model. The dataset will include images categorized into different types of brain tumors, such as gliomas, meningiomas, and pituitary tumors, as well as healthy cases.
+
 **Models and Datasets**
 
 We will employ a custom-designed CNN architecture to classify the MRI images accurately. The architecture will consist of multiple convolutional layers, pooling layers, and fully connected layers, ending with a softmax layer to output probabilities for each class.
